@@ -1,81 +1,73 @@
 [
-  {
-    "name": "Sacred Space",
-    "cost": 100,
-    "hurryCostModifier": 100,
-    "faith": 5,
-    "maintenance": 3,
-    "specialistSlots": {
-      "Ascetic": 2
-    },
-    "uniques": ["Destroyed when the city is captured","Hidden when religion is disabled"]
-  },
-  {
-    "name": "College of Theology",
-    "cost": 180,
-    "hurryCostModifier": 180,
-    "faith": 4,
-    "science": 4,
-    "maintenance": 6,
-    "requiredTech": "Theology",
-    "specialistSlots": {
-      "Philosopher": 2
-    },
-    "uniques": ["Hidden when religion is disabled"]
-  },
-  {
-    "name": "St Peter's Basilica",
-    "faith": 8,
-    "culture": 2,
-    "production": 4,
-    "isWonder": true,
-    "greatPersonPoints": {"Great Prophet": 4},
-    "requiredTech": "Theology",
-	  	"quote": "'I saw the angel in the marble and carved until I set him free.' - Michelangelo Buonarroti",
-    "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
-  },
-  {
-    "name": "Fushimi Inari Taisha",
-    "faith": 4,
-    "culture": 4,
-    "food": 3,
-	"Gold": 3,
-    "isWonder": true,
-    "greatPersonPoints": {"Great Prophet": 4},
-    "requiredTech": "Masonry",
-    "uniques": ["Hidden when religion is disabled","Free [Great Prophet] appears"]
-  },
-{
+	{
+		"name": "Sacred Space",
+		"cost": 100,
+		"hurryCostModifier": 100,
+		"faith": 5,
+		"maintenance": 3,
+		"specialistSlots": {"Ascetic": 2},
+		"uniques": ["Destroyed when the city is captured","Hidden when religion is disabled"]
+	},
+	{
+		"name": "College of Theology",
+		"cost": 180,
+		"hurryCostModifier": 180,
+		"faith": 4,
+		"science": 4,
+		"maintenance": 6,
+		"requiredTech": "Theology",
+		"specialistSlots": {"Philosopher": 2},
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "St Peter's Basilica",
+		"faith": 8,
+		"culture": 2,
+		"production": 4,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Prophet": 4},
+		"requiredTech": "Theology",
+		"quote": "'I saw the angel in the marble and carved until I set him free.' - Michelangelo Buonarroti",
+		"uniques": ["Hidden when religion is disabled", "May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+	},
+	{
+		"name": "Fushimi Inari Taisha",
+		"faith": 4,
+		"culture": 4,
+		"food": 3,
+		"gold": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Prophet": 4},
+		"requiredTech": "Masonry",
+		"uniques": ["Hidden when religion is disabled", "Free [Great Prophet] appears"]
+	},
+	{
 		"name": "Pura Agung",
 		"cost": 0,
 		"faith": 3,
 		"food": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Barong] appears"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [Barong] units for [2000] Faith at an increasing price [1000]"]
 	},
-{
+	{
 		"name": "Icon of Saint Mercurius",
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [St Mercurius] appears"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [St. Mercurius] units for [2000] Faith at an increasing price [1000]"]
 	},
-{
+	{
 		"name": "The Hanging Church",
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Simon the Tanner] appears"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [Simon the Tanner] units for [2000] Faith at an increasing price [1000]"]
 	},
-{
+	{
 		"name": "Hueyi Teocalli",
 		"cost": 0,
 		"faith": 2,
 		"Gold": 1,
 		"culture": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Tlaloc] appears"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [Tlaloc] units for [2000] Faith at an increasing price [1000]"]
 	}
 ]
