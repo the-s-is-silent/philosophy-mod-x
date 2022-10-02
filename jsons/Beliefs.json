@@ -55,7 +55,7 @@
 	{
 		"name": "Hedonism",
 		"type": "Follower",
-		"uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>", "[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings <in cities with at least [4] Followers of this Religion>", "[+2 Culture, -3 Faith] from every [Ascetic]"]
+		"uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>", "[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>", "[+2 Culture, -3 Faith] from every [Ascetic]"]
 	},
 	{
 		"name": "Hesychasm",
@@ -153,7 +153,7 @@
 	{
 		"name": "Ritual Combat",
 		"type": "Founder"
-		"uniques": ["[+20]% Strength for cities <in cities with at least [3] Followers of this Religion>", "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+		"uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>", "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
 	},
 	{
 		"name": "Sola Scriptura",
