@@ -37,7 +37,7 @@
 	{
 		"name": "Strong Panentheism",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from every [Friendly Land", "[+2]% [Culture] from every follower, up to [20]%"]
+		"uniques": ["[+1 Faith] from every [Friendly Land]", "[+2]% [Culture] from every follower, up to [20]%"]
 	},
 
   ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
