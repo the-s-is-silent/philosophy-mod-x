@@ -20,7 +20,7 @@
 		"uniques": ["Destroyed when the city is captured", "Hidden when religion is disabled"]
 	},
 	{
-		"name": "St Peter's Basilica",
+		"name": "Apostolic Palace",
 		"faith": 8,
 		"culture": 2,
 		"production": 4,
@@ -53,7 +53,7 @@
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [St. Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [St Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
 	},
 	{
 		"name": "The Hanging Church",
