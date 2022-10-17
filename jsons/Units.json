@@ -11,7 +11,7 @@
 		"uniques": ["Limited to [1] per Civilization", "Cannot be purchased", "Unbuildable", "Can move after attacking", "Never appears as a Barbarian unit", "Invisible to non-adjacent units", "Eliminates combat penalty for attacking over a river"],
 	},
 	{
-		"name": "St. Mercurius",
+		"name": "St Mercurius",
 		"unitType": "Deity",
 		"movement": "4",
 		"strength": "85",
@@ -36,6 +36,7 @@
 		"interceptRange": "8",
 		"range": "8",
 		"cost": "2000",
+		"promotions": ["Operational Range", "Air Repair"],
 		"uniques": ["Limited to [1] per Civilization", "Cannot be purchased", "Unbuildable", "Can move after attacking", "Never appears as a Barbarian unit", "[-30]% Strength for enemy [Military] units in adjacent [All] tiles", "[70]% chance to intercept air attacks", "Cannot be intercepted", "[2] additional attacks per turn"],
 	},
 	{
@@ -43,8 +44,9 @@
 		"unitType": "Deity",
 		"movement": "3",
 		"strength": "25",
+		"religiousStrength": 1000,
 		"cost": 108,
-		"uniques": ["Unbuildable", "Never appears as a Barbarian unit", "Invisible to non-adjacent units", "May capture killed [All] units", "[+64]% Strength <when defending>", "Can [Spread Religion] [2] times"],
+		"uniques": ["Unbuildable", "Never appears as a Barbarian unit", "Invisible to non-adjacent units", "May capture killed [All] units", "[+64]% Strength <when defending>", "Can [Spread Religion] [2] times", "Religious Unit", "Takes your religion over the one in their birth city"],
 	},
 	{
 		"name": "Onmyoji",
@@ -54,6 +56,6 @@
 		"cost": 64,
 		"range": "2",
 		"rangedStrength": "21",
-		"uniques": ["Unbuildable", "Never appears as a Barbarian unit", "[+5]% Strength bonus for [Military] units within [2] tiles", "[-5]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["Unbuildable", "Never appears as a Barbarian unit", "[+5]% Strength bonus for [Military] units within [2] tiles", "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "Earn [50]% of killed [Military] unit's [Strength] as [Science]"],
 	}
 ]
