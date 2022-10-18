@@ -75,7 +75,7 @@
 	{
 		"name": "Liturgical Chanting",
 		"type": "Follower",
-		"uniques": ["[+1 Gold, +1 Faith] from all [Culture] buildings <in cities with at least [5] [Followers of this Religion]", "[+1 Culture, +1 Happiness] from all [Faith] buildings <in cities with at least [9] [Followers of this Religion]>"]
+		"uniques": ["[+1 Gold, +1 Faith] from all [Culture] buildings <in cities with at least [5] [Followers of this Religion]>", "[+1 Culture, +1 Happiness] from all [Faith] buildings <in cities with at least [9] [Followers of this Religion]>"]
 	},
 	{
 		"name": "Nihilism",
