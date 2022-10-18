@@ -41,12 +41,13 @@
 	},
 	{
 		"name": "Bodhisattva",
-		"unitType": "Deity",
+		"unitType": "Sword",
 		"movement": "3",
 		"strength": "25",
 		"religiousStrength": 1000,
 		"cost": 108,
 		"uniques": ["Unbuildable", "Never appears as a Barbarian unit", "Invisible to non-adjacent units", "May capture killed [All] units", "[+64]% Strength <when defending>", "Can [Spread Religion] [2] times", "Religious Unit", "Takes your religion over the one in their birth city"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Onmyoji",
@@ -57,5 +58,6 @@
 		"range": "2",
 		"rangedStrength": "21",
 		"uniques": ["Unbuildable", "Never appears as a Barbarian unit", "[+5]% Strength bonus for [Military] units within [2] tiles", "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "Earn [50]% of killed [Military] unit's [Strength] as [Science]"],
+		"attackSound": "bow"
 	}
 ]
