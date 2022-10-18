@@ -194,6 +194,11 @@
 		"uniques": ["May buy [Hueyi Teocalli] buildings with [Faith] [in cities following this religion]"]
 	},
 	{
+		"name": "Simultaneum",
+		"type": "Enhancer",
+		"uniques": ["[+100]% Yield from every [Holy site]", "May buy [Faith] buildings for [200] [Faith] [in cities following this religion]"]
+	},
+	{
 		"name": "Theosis",
 		"type": "Enhancer",
 		"uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in all cities]", "[+20]% Strength <for [All] units> <when fighting in [All] tiles>"]
