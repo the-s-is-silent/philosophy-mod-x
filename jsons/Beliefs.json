@@ -17,12 +17,12 @@
 	{
 		"name": "Palamite Panentheism",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from [Friendly Land] tiles <within [2] tiles of a [City center]>", "[+30]% Great Person generation [in cities following this religion]", "[+3 Faith, +1 Production] from every [Ascetic]"]
+		"uniques": ["[+1 Faith] from every [Friendly Land]>", "[+30]% Great Person generation [in cities following this religion]", "[+3 Faith, +1 Production] from every [Ascetic]"]
 	},
 	{
 		"name": "Pantheism",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from [Friendly Land] tiles <within [2] tiles of a [City center]>", "[+1 Science] from every [Ascetic]"]
+		"uniques": ["[+1 Faith] from every [Friendly Land]>", "[+1 Science] from every [Ascetic]"]
 	},
 	{
 		"name": "Polytheism",
@@ -37,7 +37,7 @@
 	{
 		"name": "Strong Panentheism",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from [Friendly Land] tiles <within [2] tiles of a [City center]>", "[+2]% [Culture] from every follower, up to [20]%"]
+		"uniques": ["[+1 Faith] from every [Friendly Land]", "[+2]% [Culture] from every follower, up to [20]%"]
 	},
 
   ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
