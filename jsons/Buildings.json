@@ -45,29 +45,28 @@
 		"name": "Pura Agung",
 		"cost": 0,
 		"faith": 3,
-		"food": 1,
-		"uniques": ["Unbuildable", "Unsellable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Gain a free [Pantheon] belief", "May buy [Barong] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
+		"culture": 2,
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [Barong] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
 	},
 	{
 		"name": "Icon of Saint Mercurius",
 		"cost": 0,
-		"faith": 2,
+		"faith": 3,
 		"culture": 2,
-		"uniques": ["Unbuildable", "Unsellable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Gain a free [Enhancer] belief", "May buy [St Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [St Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
 	},
 	{
 		"name": "The Hanging Church",
 		"cost": 0,
-		"faith": 2,
-		"culture": 2,
-		"uniques": ["Unbuildable", "Unsellable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Gain a free [Follower] belief", "May buy [Simon the Tanner] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
+		"faith": 3,
+		"production": 2,
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [Simon the Tanner] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
 	},
 	{
 		"name": "Hueyi Teocalli",
 		"cost": 0,
-		"faith": 2,
-		"Gold": 1,
-		"culture": 1,
-		"uniques": ["Unbuildable", "Unsellable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Gain a free [Pantheon] belief", "May buy [Tlaloc] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
+		"faith": 3,
+		"food": 3,
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [Tlaloc] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
 	}
 ]
