@@ -17,12 +17,12 @@
 	{
 		"name": "Palamite Panentheism",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from every [Friendly Land]>", "[+30]% Great Person generation [in cities following this religion]", "[+3 Faith, +1 Production] from every [Ascetic]"]
+		"uniques": ["[+1 Faith] from every [Friendly Land]", "[+30]% Great Person generation [in cities following this religion]", "[+3 Faith, +1 Production] from every [Ascetic]"]
 	},
 	{
 		"name": "Pantheism",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from every [Friendly Land]>", "[+1 Science] from every [Ascetic]"]
+		"uniques": ["[+1 Faith] from every [Friendly Land]", "[+1 Science] from every [Ascetic]"]
 	},
 	{
 		"name": "Polytheism",
@@ -181,7 +181,7 @@
 	{
 		"name": "Kabbalah",
 		"type": "Enhancer"
-		"uniques": ["[+1 Happiness, +2 Science] from all [Synagogue] buildings", "[+1 Faith] per [4] population [in all cities]"]
+		"uniques": ["[+1 Happiness, +2 Science] from every [Synagogue]", "[+1 Faith] per [4] population [in all cities]"]
 	},
 	{
 		"name": "King of Spirits",
@@ -196,7 +196,7 @@
 	{
 		"name": "Theosis",
 		"type": "Enhancer",
-		"uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in all cities]", "[+20]% Strength <for [All] units> <when fighting in [All] tiles>"]
+		"uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in all cities]", "[+15]% Strength <for [All] units> <when fighting in [All] tiles>"]
 	},
 	{
 		"name": "Wonderworkers",
