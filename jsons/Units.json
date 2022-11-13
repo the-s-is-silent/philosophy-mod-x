@@ -11,7 +11,7 @@
 		"uniques": ["Limited to [1] per Civilization", "Cannot be purchased", "Unbuildable", "Can move after attacking", "Never appears as a Barbarian unit", "Invisible to non-adjacent units", "Eliminates combat penalty for attacking over a river"],
 	},
 	{
-		"name": "St Mercurius",
+		"name": "St. Mercurius",
 		"unitType": "Deity",
 		"movement": "4",
 		"strength": "85",
@@ -50,7 +50,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Onmyoji",
+		"name": "Onmyōji",
 		"unitType": "Archery",
 		"movement": "2",
 		"strength": "7",
