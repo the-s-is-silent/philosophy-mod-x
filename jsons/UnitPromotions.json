@@ -1,0 +1,64 @@
+//Because yes, giving the Deity units unique promotions to make them even more overpowered is the worst idea ever
+[
+	{
+		"name": "Smite",
+		"uniques": ["[+20]% Strength <when fighting in [All] tiles>"],
+		"unitTypes": ["Deity"],
+		"column": 27,
+		"row": 1
+	},
+	{
+		"name": "Scourge"
+		"prerequistes": "Smite",
+		"uniques": ["[+25]% Strength <when fighting in [All] tiles>", "Destroys tile improvements when attacking"],
+		"unitTypes": ["Deity"],
+		"column": 27,
+		"row": 2
+	},
+	{
+		"name": "Paladin",
+		"uniques": ["Ignore Zone of Control", "Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Deity"],
+		"column": 28,
+		"row": 1
+	},
+	{
+		"name": "Armor of God",
+		"prerequisites": "Paladin",
+		"uniques": ["[+75]% Strength <when defending>"],
+		"unitTypes": ["Deity"],
+		"column": 28,
+		"row": 2
+	},
+	{
+		"name": "Divine Sight",
+		"uniques": ["[+2] Sight"],
+		"unitTypes": ["Deity", "DeityAir"],
+		"column": 29,
+		"row": 1
+	},
+	{
+		"name": "Soul Food",
+		"prerequisites": ["Divine Sight"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Faith]"],
+		"unitTypes": ["Deity", "DeityAir"],
+		"column": 29,
+		"row": 2
+	},
+	{
+		"name": "Omnipresence",
+		"prerequisites": "Divine Sight",
+		"uniques": ["[+4] Range", "[+2] Sight", "Can see over obstacles"],
+		"unitTypes": ["DeityAir"],
+		"column": 30,
+		"row": 1
+	},
+	{
+		"name": "Divine Intervention",
+		"prerequisites": "Omnipresence",
+		"uniques": ["[+1000]% Damage when intercepting", "[2] extra interceptions may be made per turn"],
+		"unitTypes": ["DeityAir"],
+		"column": 30,
+		"row": 2
+	},
+]
