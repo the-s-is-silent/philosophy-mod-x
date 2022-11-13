@@ -116,7 +116,7 @@ TileSets/5Hex/Units/Simon the Tanner
   orig: 192, 192
   offset: 0, 0
   index: -1
-TileSets/5Hex/Units/St Mercurius
+TileSets/5Hex/Units/St. Mercurius
   rotate: false
   xy: 836, 1127
   size: 192, 192
@@ -151,7 +151,7 @@ UnitIcons/Simon the Tanner
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/St Mercurius
+UnitIcons/St. Mercurius
   rotate: false
   xy: 372, 172
   size: 200, 200
