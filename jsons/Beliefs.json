@@ -141,9 +141,9 @@
 		"uniques": ["[+33]% Natural religion spread [in all cities]", "[+1 Gold] per [3] population [in cities following this religion]"]
 	},
 	{
-		"name": "Onmyodo",
+		"name": "Onmyōdō",
 		"type": "Founder",
-		"uniques": ["May buy [Onmyoji] units with [Faith] for [3] times their normal Production cost"]
+		"uniques": ["May buy [Onmyōji] units with [Faith] for [3] times their normal Production cost"]
 	},
 	{
 		"name": "Papal Primacy",
