@@ -62,7 +62,7 @@
 		"cost": 0,
 		"faith": 3,
 		"culture": 2,
-		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [St Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "May buy [St. Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
 	},
 	{
 		"name": "The Hanging Church",
