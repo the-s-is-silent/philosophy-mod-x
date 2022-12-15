@@ -12,7 +12,7 @@
 	{
 		"name": "One Supreme God",
 		"type": "Pantheon",
-		"uniques": ["[+35]% Great Person generation [in cities following this religion]", "[+2]% [Gold] from every follower, up to [20]%"]
+		"uniques": ["[+35]% Great Person generation [in cities following this religion]", "[+1]% [Gold] from every follower, up to [20]%"]
 	},
 	{
 		"name": "Palamite Panentheism",
@@ -37,7 +37,7 @@
 	{
 		"name": "Strong Panentheism",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from every [Friendly Land] <within [2] tiles of a [City center]>", "[+2]% [Culture] from every follower, up to [20]%"]
+		"uniques": ["[+1 Faith] from every [Friendly Land] <within [2] tiles of a [City center]>", "[+1]% [Culture] from every follower, up to [20]%"]
 	},
 
   ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
