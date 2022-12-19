@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Scourge"
-		"prerequistes": "Smite",
+		"prerequisites": "Smite",
 		"uniques": ["[+25]% Strength <when fighting in [All] tiles>", "Destroys tile improvements when attacking"],
 		"unitTypes": ["Deity"],
 		"column": 27,
