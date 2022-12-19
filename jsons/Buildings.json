@@ -48,7 +48,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Prophet": 4},
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Hidden when religion is disabled", "Only available after adopting [Aesthetics]", "Gain a free [Pagoda] in this city", "[Bodhisattva] units built [in this city] can [Spread Religion] [2] extra times"]
+		"uniques": ["Hidden when religion is disabled", "Only available <after adopting [Aesthetics]>", "Gain a free [Pagoda] in this city", "[Bodhisattva] units built [in this city] can [Spread Religion] [2] extra times"]
 	},
 	{
 		"name": "Pura Agung",
@@ -62,7 +62,7 @@
 		"cost": 0,
 		"faith": 3,
 		"culture": 2,
-		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Free [St. Mercurius] apears", "May buy [St. Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Free [St. Mercurius] appears", "May buy [St. Mercurius] units for [2000] [Faith] [in this city] at an increasing price ([1000])"]
 	},
 	{
 		"name": "The Hanging Church",
