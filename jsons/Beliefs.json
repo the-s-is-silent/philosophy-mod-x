@@ -48,6 +48,11 @@
 		"uniques": ["[-1 Food, +1 Faith, +1 Culture] from every [Cattle]", "[-1 Food, +1 Faith, +1 Culture] from every [Bison]", "[-1 Food, +1 Faith, +1 Culture] from every [Sheep]", "[-1 Food, +1 Faith, +1 Culture] from every [Deer]", "[-1 Food, +1 Faith] from every [Fish]", "[-1 Food, +1 Faith] from every [Whales]", "[-1 Food, +1 Faith] from every [Crab]"]
 	},
 	{
+		"name": "Asceticism",
+		"type": "Follower",
+		"uniques": ["[+1 Happiness] from every [Shrine]", "[+1 Happiness] from every [Sacred Space]", "[+3 Faith, +1 Happiness] from every [Ascetic]"]
+	},
+	{
 		"name": "Fasting Calendar",
 		"type": "Follower"
 		"uniques": ["[+1 Food, +1 Production, +1 Faith] per [4] population [in all cities]"]
