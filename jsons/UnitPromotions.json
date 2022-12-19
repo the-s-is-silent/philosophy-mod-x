@@ -69,4 +69,12 @@
 		"column": 30,
 		"row": 2
 	},
+	{
+		"name": "Divine Judgment",
+		"prerequisites": ["Omnipresence"],
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>"],
+		"unitTypes": ["Deity Air"],
+		"column": 30,
+		"row": 3
+	},
 ]
